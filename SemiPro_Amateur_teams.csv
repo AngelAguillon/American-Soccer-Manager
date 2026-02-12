@@ -1,0 +1,429 @@
+﻿Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,League,Team
+Andre Applewhaite,bb BRB,DF,22,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Appalacian FC
+Mohamed Diakite,us USA,DF,28,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Appalacian FC
+Rashawn Kellman,bb BRB,DF,25,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,NPSL,Appalacian FC
+Vincent Montoya,fr FRA,MF,24,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Appalacian FC
+Juan Rodriguez,us USA,GK,25,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Appalacian FC
+Matthew Tricker,eng ENG,DF,23,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,NPSL,Appalacian FC
+Wilfried Kamden,cm CMR,MF,25,1,1,80,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Appalacian FC
+John Osadolor,es ESP,FW,23,1,1,70,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Appalacian FC
+Harri Rowe,,DF,,1,1,70,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Appalacian FC
+Sam Bayly,eng ENG,MF,22,1,1,63,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Appalacian FC
+William Hitchcock,us USA,MF,23,1,1,63,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Appalacian FC
+Thomas de Graauw,nl NED,MF,24,1,0,27,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Appalacian FC
+Robert Turner,us USA,FW,23,1,0,27,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Appalacian FC
+Harri Lovett,wls WAL,MF,24,1,0,20,0.2,0,0,0,0,0,0,1,0,0,0,0,0,0,NPSL,Appalacian FC
+Jeremiah Luoma,us USA,MF,24,1,0,20,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Appalacian FC
+Chase Gilley,us USA,MF,22,1,0,10,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Appalacian FC
+Lukas Berntsson,se SWE,FW,22,0,0,,,,,,,,,,,,,,,,NPSL,Appalacian FC
+John Ermini,us USA,GK,24,0,0,,,,,,,,,,,,,,,,NPSL,Appalacian FC
+Squad Total,,,24.5,1,11,90,1,0,0,0,0,0,0,3,0,0,0,0,0,0,,
+Opponent Total,,,24.7,1,11,90,1,3,2,5,3,0,0,2,0,3,2,5,3,5,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Eoin Houlihan,us USA,DF,27,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,BSSL,CD Faialense
+Garrett Leahy,us USA,MF,28,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,BSSL,CD Faialense
+Jacob Maddox,us USA,MF,26,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,BSSL,CD Faialense
+Denis Petro,sk SVK,DF,25,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,BSSL,CD Faialense
+Tajudeen Salawu,eng ENG,DF,24,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,BSSL,CD Faialense
+Lucas Verge,us USA,GK,29,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,BSSL,CD Faialense
+Yanis Lakhlifi,fr FRA,FW,23,1,1,74,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,BSSL,CD Faialense
+Mirko Nufi,it ITA,DF,28,1,1,74,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,BSSL,CD Faialense
+Gianluca Arlotti,us USA,MF,24,1,1,63,0.7,0,0,0,0,0,0,1,0,0,0,0,0,0,BSSL,CD Faialense
+Nicholas Awada,us USA,MF,24,1,1,62,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,BSSL,CD Faialense
+Guilherme Barbosa,us USA,MF,28,1,1,42,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,BSSL,CD Faialense
+Alessandro Negri,it ITA,DF,24,1,0,48,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,BSSL,CD Faialense
+Liam Ireland,us USA,MF,22,1,0,28,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,BSSL,CD Faialense
+Damian Attidore,us USA,DF,25,1,0,27,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,BSSL,CD Faialense
+Graham Brenner,us USA,MF,26,1,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,BSSL,CD Faialense
+Francis Mulkern,us USA,MF,33,1,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,BSSL,CD Faialense
+Felipe Guimaraes,us USA,MF,31,0,0,,,,,,,,,,,,,,,,BSSL,CD Faialense
+Kyle Ryan,us USA,MF,28,0,0,,,,,,,,,,,,,,,,BSSL,CD Faialense
+Squad Total,,,26.5,1,11,90,1,0,0,0,0,0,0,2,0,0,0,0,0,0,,
+Opponent Total,,,25.8,1,11,90,1,4,1,5,4,0,0,1,0,4,1,5,4,5,,
+,,,,,,,,,,,,,,,,,,,,,NPSL,Duluth FC
+Tristian Adams,us USA,DF,24,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Duluth FC
+Adam Braman,us USA,GK,24,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Duluth FC
+Rory Doyle,ie IRL,MF,24,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,NPSL,Duluth FC
+Mario Fernandez,es ESP,MF,24,1,1,90,1,1,0,1,1,0,0,1,0,1,0,1,1,1,NPSL,Duluth FC
+Jake Starling,us USA,DF,26,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Duluth FC
+Peter Pearson,lc LCA,DF,29,1,1,82,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Duluth FC
+Alejandro Ruiz Garcia,us USA,DF,21,1,1,82,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Duluth FC
+Dylan Sumner,eng ENG,FW,24,1,1,77,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Duluth FC
+Andres Solares,gt GUA,MF,23,1,1,76,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Duluth FC
+Stan van den Beld,nl NED,FW,21,1,1,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Duluth FC
+Aleksandar Mihov,bg BUL,MF,22,1,1,34,0.4,0,0,0,0,0,0,0,1,0,0,0,0,0,NPSL,Duluth FC
+Tyler Limmer,us USA,FW,27,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Duluth FC
+Alexis Santamaria,us USA,MF,23,1,0,14,0.2,0,0,0,0,0,0,1,0,0,0,0,0,0,NPSL,Duluth FC
+Aidan King,eng ENG,MF,21,1,0,13,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Duluth FC
+Tahj Hylton,us USA,MF,24,1,0,8,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Duluth FC
+Juan Sola Gustran,us USA,MF,20,1,0,8,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Duluth FC
+Alexandre Paredes,us USA,GK,22,0,0,,,,,,,,,,,,,,,,NPSL,Duluth FC
+Stefan Roeb,de GER,DF,22,0,0,,,,,,,,,,,,,,,,NPSL,Duluth FC
+Squad Total,,,24.6,1,11,90,1,1,0,1,1,0,0,3,1,1,0,1,1,1,,
+Opponent Total,,,29,1,11,90,1,5,4,9,5,0,1,1,0,5,4,9,5,9,,
+,,,,,,,,,,,,,,,,,,,,,NPSL,El Farrolito
+Gabriel Arias,us USA,MF,25,3,3,300,3.3,0,1,1,0,0,0,1,0,0,0.3,0.3,0,0.3,NPSL,El Farrolito
+Jesús Daniel Martínez,co COL,DF,30,3,3,300,3.3,0,0,0,0,0,0,3,0,0,0,0,0,0,NPSL,El Farrolito
+Johan Lizarralde,co COL,GK,29,3,3,300,3.3,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,El Farrolito
+Andrés Zuluaga,co COL,DF,28,3,3,300,3.3,1,0,1,1,0,0,1,0,0.3,0,0.3,0.3,0.3,NPSL,El Farrolito
+Dembor Bengtson,hn HON,FW,29,3,3,296,3.3,1,0,1,1,0,0,0,0,0.3,0,0.3,0.3,0.3,NPSL,El Farrolito
+Herlbert Soto,co COL,MF,29,3,3,296,3.3,1,0,1,0,1,1,2,0,0.3,0,0.3,0,0,NPSL,El Farrolito
+Jehimy Arias,us USA,MF,27,3,3,224,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,El Farrolito
+Sacré Kipré,ci CIV,MF,22,3,3,174,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,El Farrolito
+Jhonatan Pérez,co COL,DF,35,3,2,220,2.4,0,0,0,0,0,0,1,0,0,0,0,0,0,NPSL,El Farrolito
+Jhonatan Mosquera,co COL,DF,37,2,2,158,1.8,0,0,0,0,0,0,1,0,0,0,0,0,0,NPSL,El Farrolito
+Erik Arias,us USA,MF,24,3,1,152,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,El Farrolito
+Omar Quiroga,us USA,DF,25,3,1,119,1.3,0,0,0,0,0,0,1,0,0,0,0,0,0,NPSL,El Farrolito
+Edgard Kreye,us USA,MF,23,2,1,118,1.3,1,0,1,1,0,0,0,0,0.76,0,0.76,0.76,0.76,NPSL,El Farrolito
+Hadier Borja,co COL,DF,27,3,1,80,0.9,0,0,0,0,0,0,1,0,0,0,0,0,0,NPSL,El Farrolito
+Judas Higuera,mx MEX,MF,24,1,1,45,0.5,0,1,1,0,0,0,1,0,0,2,2,0,2,NPSL,El Farrolito
+Jorge Murillo,co COL,MF,29,3,0,139,1.5,0,0,0,0,0,0,1,0,0,0,0,0,0,NPSL,El Farrolito
+Brayan Gómez,co COL,MF,25,2,0,48,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,El Farrolito
+Ramón Córdoba,co COL,DF,35,1,0,27,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,El Farrolito
+Daouda Sidibe,us USA,,21,1,0,4,0,1,0,1,1,0,0,0,0,22.5,0,22.5,22.5,22.5,NPSL,El Farrolito
+Kevin Gonzalez,us USA,GK,32,0,0,,,,,,,,,,,,,,,,NPSL,El Farrolito
+Squad Total,,,28.7,3,33,300,3.3,5,2,7,4,1,1,13,0,1.5,0.6,2.1,1.2,1.8,,
+Opponent Total,,,23.8,3,33,300,3.3,3,2,5,2,1,1,19,1,0.9,0.6,1.5,0.6,1.2,,
+,,,,,,,,,,,,,,,,,,,,,NPSL,FC Arizona
+Bryan Acevez,us USA,MF,25,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Arizona
+Christian Aguirre,us USA,DF,19,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Arizona
+Austin Cuevas,us USA,DF,26,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Arizona
+Derek Hatcher,us USA,GK,29,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Arizona
+Jesse Maldonado,us USA,MF,22,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Arizona
+Tarek Salama,us USA,DF,27,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Arizona
+Cedrick Jeanty,us USA,DF,28,1,1,75,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Arizona
+Marco Afonso,za RSA,MF,27,1,1,74,0.8,0,1,1,0,0,0,0,0,0,1.22,1.22,0,1.22,NPSL,FC Arizona
+Gabriel Waters,us USA,MF,23,1,1,74,0.8,1,0,1,1,0,0,1,0,1.22,0,1.22,1.22,1.22,NPSL,FC Arizona
+Justin Provenzano,us USA,FW,21,1,1,51,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Arizona
+Ricardo Velazco,us USA,MF,31,1,1,50,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Arizona
+Jason Cunliffe,gu GUM,FW,41,1,0,40,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Arizona
+Kyle Benjamin,us USA,DF,21,1,0,39,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Arizona
+Marlon Atondo,us USA,MF,27,1,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Arizona
+Kamani Stewart,jm JAM,MF,29,1,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Arizona
+Saden Alharthy,us USA,DF,21,1,0,15,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Arizona
+Isaiah Benjamin,us USA,DF,19,0,0,,,,,,,,,,,,,,,,NPSL,FC Arizona
+Luis Guzman,us USA,DF,21,0,0,,,,,,,,,,,,,,,,NPSL,FC Arizona
+Squad Total,,,26,1,11,90,1,1,1,2,1,0,0,1,0,1,1,2,1,2,,
+Opponent Total,,,20.1,1,11,90,1,7,5,12,7,0,0,0,0,7,5,12,7,12,,
+,,,,,,,,,,,,,,,,,,,,,NPSL,FC Motown
+Stevo Bednarsky,us USA,MF,26,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Motown
+Matthew Leong,us USA,DF,24,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Motown
+Israel Neto,br BRA,MF,22,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Motown
+Erick Ruiz,us USA,MF,19,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Motown
+Joshua Schaffer,us USA,GK,25,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Motown
+Edward Speed,eng ENG,DF,27,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,NPSL,FC Motown
+Jean-Ismaël Voltaire,ht HAI,DF,30,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Motown
+Christopher Bermudez,us USA,MF,25,1,1,84,0.9,0,0,0,0,0,0,1,0,0,0,0,0,0,NPSL,FC Motown
+Daniel Cordeiro,us USA,DF,28,1,1,84,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Motown
+Maudwindo Germain,ht HAI,FW,23,1,1,84,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Motown
+Eli Crognale,us USA,MF,27,1,1,59,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Motown
+Luca Campbell,us USA,MF,22,1,0,31,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Motown
+Joseph Fala,,FW,,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Motown
+Andrew Maia,us USA,FW,23,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Motown
+Illia Tyrkus,us USA,FW,19,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,FC Motown
+Anderson Asiedu,gh GHA,MF,28,0,0,,,,,,,,,,,,,,,,NPSL,FC Motown
+David Greczek,us USA,GK,30,0,0,,,,,,,,,,,,,,,,NPSL,FC Motown
+Kendell Thomas,us USA,MF,23,0,0,,,,,,,,,,,,,,,,NPSL,FC Motown
+Squad Total,,,25.5,1,11,90,1,0,0,0,0,0,0,2,0,0,0,0,0,0,,
+Opponent Total,,,26.7,1,11,90,1,1,0,1,0,1,1,2,0,1,0,1,0,0,,
+,,,,,,,,,,,,,,,,,,,,,UPSL,Foro SC
+Imanol Almaguer,us USA,MF,24,2,2,210,2.3,0,1,1,0,0,0,0,0,0,0.43,0.43,0,0.43,UPSL,Foro SC
+Kyran Chambron Pinho,de GER,DF,23,2,2,210,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Foro SC
+Brayan Padilla,us USA,FW,24,2,2,210,2.3,3,0,3,1,2,2,0,0,1.29,0,1.29,0.43,0.43,UPSL,Foro SC
+Rio Ramirez,us USA,DF,26,2,2,210,2.3,0,0,0,0,0,0,1,0,0,0,0,0,0,UPSL,Foro SC
+Gibran Rayo,us USA,"FW,DF",23,2,2,210,2.3,1,0,1,1,0,0,1,0,0.43,0,0.43,0.43,0.43,UPSL,Foro SC
+Gonzalo Santa,es ESP,GK,31,2,2,210,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Foro SC
+Thomas Robinson,us USA,DF,23,2,2,165,1.8,0,0,0,0,0,0,1,0,0,0,0,0,0,UPSL,Foro SC
+McKinley Smith,us USA,FW,29,2,1,150,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Foro SC
+Luis Lara,mx MEX,FW,23,2,1,121,1.3,0,0,0,0,0,0,1,0,0,0,0,0,0,UPSL,Foro SC
+Manuel Lopez,us USA,MF,29,2,1,120,1.3,0,1,1,0,0,0,0,0,0,0.75,0.75,0,0.75,UPSL,Foro SC
+Eric Gomez Silva,es ESP,FW,24,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Foro SC
+Blaine Ferri,us USA,MF,24,1,1,89,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Foro SC
+Braden Anderson,us USA,DF,22,1,1,60,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Foro SC
+Marcelo Pedraza,us USA,MF,20,1,1,60,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Foro SC
+Nate Kopetsky,us USA,MF,24,1,1,42,0.5,0,0,0,0,0,0,0,1,0,0,0,0,0,UPSL,Foro SC
+Fabricio Martinez,us USA,MF,19,1,0,44,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Foro SC
+Camilo Estrada,us USA,MF,22,1,0,30,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Foro SC
+Eric Stoisa,,MF,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Foro SC
+Antoine Detavernier,be BEL,DF,23,0,0,,,,,,,,,,,,,,,,UPSL,Foro SC
+Jesus Diaz,us USA,GK,18,0,0,,,,,,,,,,,,,,,,UPSL,Foro SC
+Ryan Jones,us USA,DF,22,0,0,,,,,,,,,,,,,,,,UPSL,Foro SC
+Ethan Sampson,us USA,DF,22,0,0,,,,,,,,,,,,,,,,UPSL,Foro SC
+Squad Total,,,25.4,2,22,210,2.3,4,2,6,2,2,2,4,1,1.71,0.86,2.57,0.86,1.71,,
+Opponent Total,,,26.3,2,22,210,2.3,4,4,8,4,0,0,9,1,1.71,1.71,3.43,1.71,3.43,,
+,,,,,,,,,,,,,,,,,,,,,UPSL,Harbor City FC
+Kyle Carr,us USA,MF,30,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Harbor City FC
+Ian Leighton,us USA,DF,24,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Harbor City FC
+Samuel Leighton,us USA,DF,26,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Harbor City FC
+Robert Madden,us USA,DF,27,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Harbor City FC
+Bryce Notardonato,us USA,GK,26,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Harbor City FC
+Zachary Pless,us USA,DF,19,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Harbor City FC
+Mario Licor,us USA,MF,24,1,1,80,0.9,0,0,0,0,0,0,1,0,0,0,0,0,0,UPSL,Harbor City FC
+Trey Collins,us USA,MF,33,1,1,73,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Harbor City FC
+Perrie Nascimento,us USA,MF,25,1,1,72,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Harbor City FC
+Mitchell Reed,us USA,FW,25,1,1,56,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Harbor City FC
+Jordan Snell,us USA,FW,32,1,1,56,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Harbor City FC
+Andrew Bennett,us USA,MF,21,1,0,34,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Harbor City FC
+Derek Notardonato,us USA,MF,24,1,0,34,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Harbor City FC
+Aden O'Hara,us USA,MF,22,1,0,18,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Harbor City FC
+Gabriel Shelton,us USA,MF,19,1,0,17,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Harbor City FC
+John Oshakpemhe,us USA,MF,26,1,0,10,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Harbor City FC
+Osaro Osayamon,us USA,MF,23,0,0,,,,,,,,,,,,,,,,UPSL,Harbor City FC
+Collin Robidoux,us USA,MF,23,0,0,,,,,,,,,,,,,,,,UPSL,Harbor City FC
+Squad Total,,,26.2,1,11,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,,
+Opponent Total,,,27.5,1,11,90,1,3,2,5,3,0,0,0,0,3,2,5,3,5,,
+,,,,,,,,,,,,,,,,,,,,,USASA,Harpos FC
+Joel Chavez,us USA,GK,26,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,Harpos FC
+Baptiste Debuire,us USA,DF,25,1,1,90,1,1,0,1,1,0,0,0,0,1,0,1,1,1,USASA,Harpos FC
+Braden Fidelak,us USA,DF,23,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,Harpos FC
+Curtis Hale,us USA,MF,22,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,Harpos FC
+George Marchant,eng ENG,FW,26,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,Harpos FC
+Danilo Peković,us USA,MF,25,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,Harpos FC
+Davinson Diaz,us USA,MF,24,1,1,68,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,Harpos FC
+John Lister,us USA,MF,32,1,1,68,0.8,0,0,0,0,0,0,1,0,0,0,0,0,0,USASA,Harpos FC
+Ricardo Perez,mx MEX,DF,29,1,1,68,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,Harpos FC
+Shane Wheeler,us USA,MF,34,1,1,59,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,Harpos FC
+Patrick Allan,us USA,DF,26,1,1,52,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,Harpos FC
+Juan Araque,ck COK,MF,26,1,0,38,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,Harpos FC
+Quinn Matulis,us USA,MF,24,1,0,31,0.3,0,1,1,0,0,0,0,0,0,2.9,2.9,0,2.9,USASA,Harpos FC
+Jake Feiner,us USA,MF,24,1,0,22,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,Harpos FC
+Luis Toledo,us USA,MF,22,1,0,22,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,Harpos FC
+Daniel Whittle,us USA,FW,34,1,0,22,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,Harpos FC
+Squad Total,,,26.5,1,11,90,1,1,1,2,1,0,0,1,0,1,1,2,1,2,,
+Opponent Total,,,27.5,1,11,90,1,4,3,7,4,0,0,0,0,4,3,7,4,7,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,SFSFL,Inter San Francisco
+Adrien Argast,us USA,MF,21,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,SFSFL,Inter San Francisco
+Dylan Autran,us USA,MF,30,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,SFSFL,Inter San Francisco
+Jesús Enríquez,mx MEX,MF,27,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,SFSFL,Inter San Francisco
+Matthew Fondy,us USA,FW,35,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,SFSFL,Inter San Francisco
+Noah Gaines,us USA,DF,30,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,SFSFL,Inter San Francisco
+Jesus Medina,us USA,GK,23,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,SFSFL,Inter San Francisco
+Max Ornstil,us USA,DF,30,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,SFSFL,Inter San Francisco
+Javier Rivera,es ESP,MF,26,1,1,69,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,SFSFL,Inter San Francisco
+Pierre Rappolt,us USA,DF,34,1,1,51,0.6,0,0,0,0,0,0,1,0,0,0,0,0,0,SFSFL,Inter San Francisco
+Oscar Cervantes,us USA,DF,28,1,1,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,SFSFL,Inter San Francisco
+Oscar Shub,us USA,MF,22,1,1,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,SFSFL,Inter San Francisco
+Julio Cervantes,us USA,MF,31,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,SFSFL,Inter San Francisco
+Bryan Canchola,us USA,DF,29,1,0,39,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,SFSFL,Inter San Francisco
+Nikolai Littleton,us USA,MF,33,1,0,34,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,SFSFL,Inter San Francisco
+Florian Deletioğlu,de GER,MF,23,1,0,21,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,SFSFL,Inter San Francisco
+Miles Montgomery,us USA,FW,26,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,SFSFL,Inter San Francisco
+Leonardo Lázaro,co COL,MF,31,0,0,,,,,,,,,,,,,,,,SFSFL,Inter San Francisco
+Tyler Wall,us USA,FW,36,0,0,,,,,,,,,,,,,,,,SFSFL,Inter San Francisco
+Squad Total,,,28.7,1,11,90,1,0,0,0,0,0,0,3,0,0,0,0,0,0,,
+Opponent Total,,,25.8,1,11,90,1,4,4,8,4,0,0,2,0,4,4,8,4,8,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,UPSL,Laguna United FC
+Tiago Aranibar,us USA,DF,18,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,UPSL,Laguna United FC
+Will Baker,us USA,DF,27,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Laguna United FC
+Michael Barraza,us USA,MF,19,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Laguna United FC
+Tanner Casey,us USA,DF,18,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Laguna United FC
+Hector Flores,us USA,GK,22,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Laguna United FC
+Ben Nicholson,eng ENG,DF,33,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Laguna United FC
+Eduardo Moreno,us USA,MF,17,1,1,81,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Laguna United FC
+Yousef Farah,us USA,FW,22,1,1,69,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Laguna United FC
+Vincent Lopez,us USA,MF,21,1,1,69,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Laguna United FC
+Randy Castillo,us USA,MF,21,1,1,55,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Laguna United FC
+Sungho Yun,us USA,MF,18,1,1,55,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Laguna United FC
+Hudson Garner,us USA,MF,15,1,0,35,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Laguna United FC
+Lukas Newman,us USA,MF,19,1,0,35,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Laguna United FC
+Carter Biondolillo,us USA,DF,14,1,0,21,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Laguna United FC
+Jacob Garcia,us USA,MF,18,1,0,21,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Laguna United FC
+Andrew Bowles,us USA,MF,18,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Laguna United FC
+Jacob Estall,us USA,GK,17,0,0,,,,,,,,,,,,,,,,UPSL,Laguna United FC
+Quinn Frye,us USA,DF,17,0,0,,,,,,,,,,,,,,,,UPSL,Laguna United FC
+Squad Total,,,21.6,1,11,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,,
+Opponent Total,,,21.2,1,11,90,1,6,5,11,6,0,0,1,0,6,5,11,6,11,,
+,,,,,,,,,,,,,,,,,,,,,,
+Diego Alberto Morales,ar ARG,FW,38,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Miami United FC
+A. Callejas,ar ARG,DF,27,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,UPSL,Miami United FC
+Sebastián D'Angelo,ar ARG,GK,36,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Miami United FC
+Daniel Daza,ve VEN,MF,30,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Miami United FC
+Robertino Insúa,ar ARG,MF,30,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Miami United FC
+Sime Ludner,ht HAI,DF,28,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Miami United FC
+Sebastián Luzuriaga,ar ARG,DF,28,1,1,90,1,1,0,1,1,0,0,1,0,1,0,1,1,1,UPSL,Miami United FC
+Benjamín Zamora,cl CHI,DF,29,1,1,81,0.9,0,0,0,0,0,0,1,0,0,0,0,0,0,UPSL,Miami United FC
+Santiago Frean,ar ARG,MF,35,1,1,73,0.8,1,0,1,1,0,0,2,1,1.23,0,1.23,1.23,1.23,UPSL,Miami United FC
+Guido Cacciabue,us USA,MF,26,1,1,70,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Miami United FC
+Alessandro Mazzeta,ve VEN,FW,30,1,1,56,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Miami United FC
+Alejo Melo Fernandez,ar ARG,FW,23,1,0,34,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Miami United FC
+José Aguinaga,es ESP,MF,29,1,0,20,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Miami United FC
+Francesco Piraino,it ITA,FW,22,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Miami United FC
+Jeison Espitia,co COL,DF,29,0,0,,,,,,,,,,,,,,,,UPSL,Miami United FC
+Niklas Hoener,de GER,MF,23,0,0,,,,,,,,,,,,,,,,UPSL,Miami United FC
+Nicolás Rivera,co COL,GK,24,0,0,,,,,,,,,,,,,,,,UPSL,Miami United FC
+Josduar Serrano,,DF,,0,0,,,,,,,,,,,,,,,,UPSL,Miami United FC
+Squad Total,,,30.8,1,11,90,1,2,0,2,2,0,0,5,1,2,0,2,2,2,,
+Opponent Total,,,19.5,1,11,90,1,4,3,7,4,0,0,1,0,4,3,7,4,7,,
+,,,,,,,,,,,,,,,,,,,,,,
+Agustin Bezara,us USA,DF,20,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Naples United FC
+Joshua Burton,us USA,GK,23,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Naples United FC
+Rafael Calderon,us USA,MF,25,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Naples United FC
+Lautaro Guerra,uy URU,DF,20,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Naples United FC
+Diego Luengo,ar ARG,MF,22,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Naples United FC
+Mario Martínez,sv SLV,MF,25,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Naples United FC
+Oscar Ribera,bo BOL,DF,32,1,1,89,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Naples United FC
+Filippo Begliardi,it ITA,FW,26,1,1,73,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Naples United FC
+Pablo Marisi,ar ARG,FW,35,1,1,73,0.8,0,0,0,0,0,0,1,0,0,0,0,0,0,NPSL,Naples United FC
+Lautaro Furione,ar ARG,MF,22,1,1,45,0.5,0,0,0,0,0,0,1,0,0,0,0,0,0,NPSL,Naples United FC
+Ryan Muroff,us USA,DF,20,1,1,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Naples United FC
+Roberto Louima,ht HAI,FW,27,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Naples United FC
+David Ribera,bo BOL,FW,24,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Naples United FC
+Luis Baldivieso,bo BOL,FW,23,1,0,17,0.2,0,1,1,0,0,0,0,0,0,5.29,5.29,0,5.29,NPSL,Naples United FC
+Jorge Moreno,bo BOL,FW,29,1,0,17,0.2,1,0,1,1,0,0,1,0,5.29,0,5.29,5.29,5.29,NPSL,Naples United FC
+Agustin Sinelli,ar ARG,DF,20,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Naples United FC
+Maykell Ortega,ni NCA,GK,26,0,0,,,,,,,,,,,,,,,,NPSL,Naples United FC
+Ukasyah Wallace,us USA,DF,27,0,0,,,,,,,,,,,,,,,,NPSL,Naples United FC
+Squad Total,,,25.4,1,11,90,1,1,1,2,1,0,0,3,0,1,1,2,1,2,,
+Opponent Total,,,28,1,11,90,1,4,2,6,4,0,0,1,0,4,2,6,4,6,,
+,,,,,,,,,,,,,,,,,,,,,,
+Luis Argudo,us USA,MF,29,2,2,210,2.3,0,0,0,0,0,0,1,0,0,0,0,0,0,USASA,NY Pancyprian-Freedoms
+Jordan Bailon,us USA,MF,24,2,2,210,2.3,0,1,1,0,0,0,0,0,0,0.43,0.43,0,0.43,USASA,NY Pancyprian-Freedoms
+Joe Holland,eng ENG,MF,31,2,2,210,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,NY Pancyprian-Freedoms
+Josh Levine,us USA,GK,27,2,2,210,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,NY Pancyprian-Freedoms
+Jack Sluys,us USA,DF,23,2,2,210,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,NY Pancyprian-Freedoms
+Devin Heanue,us USA,DF,23,2,2,194,2.2,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,NY Pancyprian-Freedoms
+Rikard Cederberg,se SWE,DF,23,2,2,165,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,NY Pancyprian-Freedoms
+Nick Zielonka,us USA,FW,23,2,2,156,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,NY Pancyprian-Freedoms
+James Thristino,us USA,FW,27,2,2,135,1.5,1,0,1,1,0,0,0,0,0.67,0,0.67,0.67,0.67,USASA,NY Pancyprian-Freedoms
+Pablo Herrera,es ESP,DF,22,2,1,151,1.7,1,0,1,1,0,0,0,0,0.6,0,0.6,0.6,0.6,USASA,NY Pancyprian-Freedoms
+Matthew Forster,,DF,,1,1,95,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,NY Pancyprian-Freedoms
+Denis Kelmendi,se SWE,DF,25,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,NY Pancyprian-Freedoms
+Augustus McGiff,us USA,DF,22,1,1,36,0.4,0,0,0,0,0,0,1,0,0,0,0,0,0,USASA,NY Pancyprian-Freedoms
+Sameer Fathazada,ca CAN,FW,27,1,0,75,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,NY Pancyprian-Freedoms
+Jens Hoff,no NOR,DF,24,2,0,61,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,NY Pancyprian-Freedoms
+Junior Rosero,us USA,FW,29,2,0,54,0.6,0,0,0,0,0,0,1,0,0,0,0,0,0,USASA,NY Pancyprian-Freedoms
+Alexsi Morel,us USA,MF,23,1,0,25,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,NY Pancyprian-Freedoms
+Pablo Ablanedo,es ESP,DF,24,1,0,23,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,USASA,NY Pancyprian-Freedoms
+George Angelidis,us USA,GK,28,0,0,,,,,,,,,,,,,,,,USASA,NY Pancyprian-Freedoms
+Konstantinos Xiouros,cy CYP,MF,24,0,0,,,,,,,,,,,,,,,,USASA,NY Pancyprian-Freedoms
+Squad Total,,,25.9,2,22,210,2.3,2,1,3,2,0,0,3,0,0.86,0.43,1.29,0.86,1.29,,
+Opponent Total,,,22.9,2,22,210,2.3,2,1,3,2,0,0,4,0,0.86,0.43,1.29,0.86,1.29,,
+,,,,,,,,,,,,,,,,,,,,,,
+Filippo Bellú,it ITA,FW,27,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,New York Shockers
+Adel Cekic,us USA,DF,27,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,New York Shockers
+Elias Ehlin,se SWE,MF,23,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,New York Shockers
+Antonio Linge,de GER,DF,25,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,NPSL,New York Shockers
+Dylan Maxon,us USA,MF,23,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,New York Shockers
+Thomas Sams,us USA,DF,23,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,New York Shockers
+Byron Drysdale,us USA,DF,26,1,1,78,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,New York Shockers
+Bilal Hersi,so SOM,FW,23,1,1,71,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,New York Shockers
+Ryan Henning,us USA,GK,24,1,1,65,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,New York Shockers
+Jackson Leon,us USA,FW,27,1,1,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,New York Shockers
+Seth Scarano,us USA,MF,28,1,1,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,New York Shockers
+Joseph DiPreta,us USA,MF,21,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,New York Shockers
+Kyle Macfarlane,sct SCO,DF,20,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,New York Shockers
+Tyler Brennan,us USA,GK,22,1,0,25,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,New York Shockers
+Rood Apolon,ht HAI,MF,19,1,0,19,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,New York Shockers
+Anthony Rouse,us USA,MF,22,1,0,12,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,New York Shockers
+Dairo Hernandez,us USA,MF,27,0,0,,,,,,,,,,,,,,,,NPSL,New York Shockers
+Cameron LaVallee,us USA,MF,26,0,0,,,,,,,,,,,,,,,,NPSL,New York Shockers
+Squad Total,,,24.8,1,11,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,,
+Opponent Total,,,25.5,1,11,90,1,3,3,6,3,0,0,0,0,3,3,6,3,6,,
+,,,,,,,,,,,,,,,,,,,,,,
+Ojai Bedward,jm JAM,DF,30,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,NY Renegades FC
+Milton Campos,sv SLV,MF,24,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,NY Renegades FC
+Rodrigo Descalzo,ar ARG,FW,30,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,UPSL,NY Renegades FC
+Eric Edwards,jm JAM,GK,27,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,NY Renegades FC
+Cristhian Efrain García,ec ECU,DF,22,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,NY Renegades FC
+Dillon Woods,hn HON,MF,25,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,UPSL,NY Renegades FC
+Sebastáin Ruiz,co COL,MF,26,1,1,75,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,NY Renegades FC
+Francisco Flores,sv SLV,DF,23,1,1,74,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,NY Renegades FC
+Samuel Cáceres,py PAR,DF,35,1,1,66,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,NY Renegades FC
+Kilmar Campos,sv SLV,MF,25,1,1,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,NY Renegades FC
+Henry Martinez,us USA,MF,24,1,1,40,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,NY Renegades FC
+Angelo Quintanilla,us USA,FW,20,1,0,50,0.6,0,1,1,0,0,0,0,0,0,1.8,1.8,0,1.8,UPSL,NY Renegades FC
+José Gil Mejía,us USA,MF,24,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,NY Renegades FC
+Mauricio Quintanilla,us USA,FW,24,1,0,24,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,NY Renegades FC
+Jonathan Silveira,us USA,MF,29,1,0,16,0.2,1,0,1,1,0,0,0,0,5.63,0,5.63,5.63,5.63,UPSL,NY Renegades FC
+Alex Palas,us USA,MF,20,1,0,15,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,NY Renegades FC
+Daniel Alzate,us USA,GK,20,0,0,,,,,,,,,,,,,,,,UPSL,NY Renegades FC
+Mathews Carriel,ec ECU,MF,25,0,0,,,,,,,,,,,,,,,,UPSL,NY Renegades FC
+Squad Total,,,26.5,1,11,90,1,1,1,2,1,0,0,2,0,1,1,2,1,2,,
+Opponent Total,,,18.6,1,11,90,1,4,4,8,4,0,0,1,0,4,4,8,4,8,,
+,,,,,,,,,,,,,,,,,,,,,,
+Jacob Cotton,us USA,GK,24,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Soda City FC
+Marco Monteiro,pt POR,DF,25,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Soda City FC
+Marco Navarro,us USA,DF,24,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Soda City FC
+Ivan Oseguera,us USA,MF,25,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Soda City FC
+Troy Paul,us USA,MF,25,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Soda City FC
+Rauf Salifu,gh GHA,FW,22,1,1,90,1,1,0,1,1,0,0,0,0,1,0,1,1,1,UPSL,Soda City FC
+Jose Flores,us USA,MF,24,1,1,87,1,0,1,1,0,0,0,1,0,0,1.03,1.03,0,1.03,UPSL,Soda City FC
+Hykeem Martin,us USA,MF,24,1,1,87,1,0,0,0,0,0,0,1,0,0,0,0,0,0,UPSL,Soda City FC
+Carlos Cepeda,us USA,DF,23,1,1,74,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Soda City FC
+Gabriel Guadagno,us USA,DF,22,1,1,74,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Soda City FC
+Mamadou Seye,us USA,FW,22,1,1,66,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Soda City FC
+Lamar Thompson,jm JAM,,33,1,0,24,0.3,1,0,1,1,0,0,0,0,3.75,0,3.75,3.75,3.75,UPSL,Soda City FC
+Jon Cody Mactutus,us USA,MF,26,1,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Soda City FC
+Tobias Rawson,ar ARG,DF,24,1,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Soda City FC
+John Curte,us USA,MF,22,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Soda City FC
+Wynston Johnson,us USA,FW,24,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Soda City FC
+Hayden Criollo,us USA,FW,28,0,0,,,,,,,,,,,,,,,,UPSL,Soda City FC
+Blaize McGinnis,us USA,GK,27,0,0,,,,,,,,,,,,,,,,UPSL,Soda City FC
+Squad Total,,,24.4,1,11,90,1,2,1,3,2,0,0,2,0,2,1,3,2,3,,
+Opponent Total,,,23.2,1,11,90,1,4,2,6,3,1,1,3,0,4,2,6,3,5,,
+,,,,,,,,,,,,,,,,,,,,,,
+Xaaji Abdulkaadir,so SOM,DF,26,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Southern Indiana FC
+Jake Calderbank,us USA,MF,22,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Southern Indiana FC
+Kellan Clegg,us USA,FW,21,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Southern Indiana FC
+Salehe Ekuchi,us USA,MF,22,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Southern Indiana FC
+Zane Love,us USA,GK,22,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Southern Indiana FC
+Luca Perrin,eng ENG,DF,22,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Southern Indiana FC
+Casey McCloskey,us USA,FW,22,1,1,87,1,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Southern Indiana FC
+Allain Bizoza,us USA,FW,21,1,1,63,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Southern Indiana FC
+Bryce Dolenc,us USA,DF,21,1,1,51,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Southern Indiana FC
+Nathan Brown,us USA,MF,22,1,1,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Southern Indiana FC
+Bradley Hornback,us USA,DF,22,1,1,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Southern Indiana FC
+Taylor Aaron,us USA,FW,20,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Southern Indiana FC
+Sidahmed Mohamed,us USA,MF,21,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Southern Indiana FC
+Michael Owusu,us USA,DF,25,1,0,39,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Southern Indiana FC
+Daiki Ozawa,jp JPN,MF,28,1,0,27,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Southern Indiana FC
+Elorm Dogbey,us USA,FW,25,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,UPSL,Southern Indiana FC
+Kaiden Ferrar,us USA,GK,21,0,0,,,,,,,,,,,,,,,,UPSL,Southern Indiana FC
+Caleb King,us USA,DF,24,0,0,,,,,,,,,,,,,,,,UPSL,Southern Indiana FC
+Squad Total,,,22.9,1,11,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+Opponent Total,,,25.8,1,11,90,1,5,5,10,5,0,0,3,0,5,5,10,5,10,,
+,,,,,,,,,,,,,,,,,,,,,,
+Alejandro Chavez,us USA,DF,27,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Tulsa Athletics
+Aboubakr Diallo,ga GAB,FW,27,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Tulsa Athletics
+Jakub Grzesiak,pl POL,GK,21,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Tulsa Athletics
+Jonathan Harris,us USA,DF,27,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Tulsa Athletics
+Tweneboa Kodua,gh GHA,MF,20,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Tulsa Athletics
+Thomas Lamb,eng ENG,MF,22,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Tulsa Athletics
+Ciaran Winters,us USA,MF,23,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Tulsa Athletics
+Juan Moreno,co COL,MF,22,1,1,88,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Tulsa Athletics
+Joseph Ruiz,us USA,DF,26,1,1,88,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Tulsa Athletics
+Danny Flores,us USA,MF,22,1,1,77,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Tulsa Athletics
+Gustavo Vargas,co COL,DF,28,1,1,65,0.7,0,0,0,0,0,0,2,1,0,0,0,0,0,NPSL,Tulsa Athletics
+Mitchell Cashion,us USA,MF,25,1,0,13,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Tulsa Athletics
+Josue Bonilla,us USA,MF,22,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Tulsa Athletics
+Ruben Torres,mx MEX,MF,24,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NPSL,Tulsa Athletics
+Logan Campbell,us USA,GK,24,0,0,,,,,,,,,,,,,,,,NPSL,Tulsa Athletics
+Manny Gonzalez,us USA,MF,34,0,0,,,,,,,,,,,,,,,,NPSL,Tulsa Athletics
+Edgardo Mira,sv SLV,MF,31,0,0,,,,,,,,,,,,,,,,NPSL,Tulsa Athletics
+Vinicius de Oliveira,br BRA,MF,25,0,0,,,,,,,,,,,,,,,,NPSL,Tulsa Athletics
+Squad Total,,,24.6,1,11,90,1,0,0,0,0,0,0,2,1,0,0,0,0,0,,
+Opponent Total,,,25.2,1,11,90,1,1,0,1,0,1,1,3,0,1,0,1,0,0,,
+,,,,,,,,,,,,,,,,,,,,,,
+Egor Akulov,us USA,DF,21,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,GSSL,Washington AC
+Kasey French,us USA,DF,28,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,GSSL,Washington AC
+Saif Kerawala,us USA,GK,27,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,GSSL,Washington AC
+Eric Lagos,us USA,FW,24,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,GSSL,Washington AC
+Christian Rincon,us USA,MF,24,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,GSSL,Washington AC
+Mark Roth,us USA,DF,28,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,GSSL,Washington AC
+Luke Hauswirth,us USA,DF,29,1,1,71,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,GSSL,Washington AC
+Alexander Hall,us USA,FW,19,1,1,70,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,GSSL,Washington AC
+Gonçalo Mendes,pt POR,MF,27,1,1,60,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,GSSL,Washington AC
+Nicholas O'Brien,us USA,MF,20,1,1,60,0.7,1,0,1,1,0,0,0,0,1.5,0,1.5,1.5,1.5,GSSL,Washington AC
+Julian Good,ca CAN,MF,26,1,1,45,0.5,0,0,0,0,0,0,1,0,0,0,0,0,0,GSSL,Washington AC
+Connor Lofy,us USA,MF,19,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,GSSL,Washington AC
+Scott Menzies,us USA,FW,28,1,0,30,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,GSSL,Washington AC
+Dylan Teves,us USA,MF,24,1,0,30,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,GSSL,Washington AC
+John Magnus,us USA,MF,27,1,0,20,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,GSSL,Washington AC
+Marshall Kosaka,us USA,FW,34,1,0,19,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,GSSL,Washington AC
+Ryan DeGroot,us USA,MF,28,0,0,,,,,,,,,,,,,,,,GSSL,Washington AC
+Bernard Jones,us USA,GK,23,0,0,,,,,,,,,,,,,,,,GSSL,Washington AC
+Squad Total,,,25.3,1,11,90,1,1,0,1,1,0,0,1,0,1,0,1,1,1,,
+Opponent Total,,,21.3,1,11,90,1,3,2,5,3,0,0,2,0,3,2,5,3,5,,
